@@ -1,2 +1,3 @@
 # ping-pong
-ping pong game on pyqt5 v1.0
+This is a simple ping-pong game on python(pyqt5)
+
